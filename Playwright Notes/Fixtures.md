@@ -1,0 +1,2 @@
+What is Fixture?
+Playwright fixtures are reusable setups that provide isolated resources like a browser, context, or page for each test. They handle setup and teardown automatically, so tests run independently without sharing state. Fixtures make tests cleaner, more reliable, and easier to maintain — and we can even create custom fixtures for things like login or API setup
